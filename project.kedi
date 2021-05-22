@@ -1,0 +1,6 @@
+[PROJECT
+    =name 'Jedi'
+    =author 'Ferhat Gecdogan'
+    =license 'MIT'
+    =language 'C++'
+]
